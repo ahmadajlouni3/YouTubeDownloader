@@ -17,6 +17,7 @@ def input_check(urls_container, folders_name_container, quality):
         #if check good
         else:
             print("please enter number between 1 or 2!")
+            break
 
 
 
