@@ -13,9 +13,8 @@ print(f'''
 {'='*65}
 ''')
 
-print("Builded by ( ahmadajlouni3 )")
+print("Builded by ahmadajlouni3")
 print("github: @ahmadajlouni3")
-print("linkedin: www.linkedin.com/in/ahmad-alajlouni-1ab9a820a\n\n")
 
 
 #input collector and checker
@@ -33,12 +32,4 @@ except:
 
 
 
-print("Playlist Downloaded Complete\n")
-
-print("I have also alot of upgrade to this program that coming soon like:")
-print("convert it to gui")
-print("add other features like auto quality detection")
-print("insert name to downloaded file and support many language\n")
-
-print("you can donate me from this wallet (usdt-trc20)\n")
-print('( TAxfquoA3qgfYTCv5NGACPCQngPR46qUFY )')
+print("Downloaded Complete\n")
